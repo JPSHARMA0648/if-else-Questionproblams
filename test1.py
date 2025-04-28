@@ -1,5 +1,5 @@
-#Write a program that takes an integer input from the user and checks whether the number is odd or
-even.
+'''Write a program that takes an integer input from the user and checks whether the number is odd or
+even'''
 
 # Get input from the user
 number = int(input("Enter an integer: "))
